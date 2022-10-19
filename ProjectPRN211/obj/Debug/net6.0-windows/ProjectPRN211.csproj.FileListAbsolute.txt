@@ -1,0 +1,17 @@
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0-windows\ProjectPRN211.exe
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0-windows\ProjectPRN211.deps.json
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0-windows\ProjectPRN211.runtimeconfig.json
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0-windows\ProjectPRN211.dll
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\bin\Debug\net6.0-windows\ProjectPRN211.pdb
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\ProjectPRN211.csproj.AssemblyReference.cache
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\ProjectPRN211.Form1.resources
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\ProjectPRN211.csproj.GenerateResource.cache
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\ProjectPRN211.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\ProjectPRN211.AssemblyInfoInputs.cache
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\ProjectPRN211.AssemblyInfo.cs
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\ProjectPRN211.csproj.CoreCompileInputs.cache
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\ProjectPRN211.dll
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\refint\ProjectPRN211.dll
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\ProjectPRN211.pdb
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\ProjectPRN211.genruntimeconfig.cache
+E:\Sem6\PRN211\ProjectPRN211\ProjectPRN211\obj\Debug\net6.0-windows\ref\ProjectPRN211.dll
